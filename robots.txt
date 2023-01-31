@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blogbirdeyeview.github.io/sitemap.xml

@@ -1,0 +1,81 @@
+
+.logo-prego {
+    border-radius: var(--radius);
+    margin-bottom: 18px;
+}
+
+.card .img-fluid {
+    width: 100%;
+}
+
+.maxthumb {
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.mb-30px {
+    margin-bottom: 30px;
+}
+
+.listfeaturedtag h2.card-title, .listrecent h2.card-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+.listfeaturedtag h4.card-text, .listrecent h4.card-text {
+    color: rgba(0, 0, 0, .44);
+    font-size: 0.95rem;
+    line-height: 1.6;
+    font-weight: 400;
+}
+
+.wrapfooter {
+    font-size: 12px;
+    align-items: center;
+}
+
+.section-title h2 {
+    border-bottom: 1px solid rgba(0, 0, 0, .125);
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 1.4rem;
+    margin-bottom: 27px;
+}
+
+.section-title span {
+    border-bottom: 1px solid rgba(0, 0, 0, .44);
+    display: inline-block;
+    padding-bottom: 20px;
+    margin-bottom: -1px;
+}
+
+a.prego-a {
+    box-shadow: none !important;
+}
+
+h1.pregoh {
+    margin: 15px auto 10px !important;
+}
+
+h2.pregoh {
+    margin: 15px auto 10px !important;
+}
+
+h3.pregoh {
+    margin: 15px auto 10px !important;
+}
+
+h4.pregoh {
+    margin: 10px auto 5px !important;
+}
+
+div.prego-padding {
+    padding-top: .55rem !important;
+}
