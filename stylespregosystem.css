@@ -79,3 +79,18 @@ h4.pregoh {
 div.prego-padding {
     padding-top: .55rem !important;
 }
+
+.prego-barButton {
+    text-align: center;
+}
+
+.prego-figure {
+    text-align: center;
+}
+
+.prego-figure figcaption.prego-figcaption {
+    font-size: 13px;
+    color: var(--secondary);
+    font-weight: 400;
+        margin: 6px 0 15px;
+}
