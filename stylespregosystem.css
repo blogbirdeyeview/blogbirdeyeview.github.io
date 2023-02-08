@@ -1,4 +1,3 @@
-
 .logo-prego {
     border-radius: var(--radius);
     margin-bottom: 18px;
@@ -23,13 +22,15 @@
     margin-bottom: 30px;
 }
 
-.listfeaturedtag h2.card-title, .listrecent h2.card-title {
+.listfeaturedtag h2.card-title,
+.listrecent h2.card-title {
     font-size: 1.3rem;
     font-weight: 700;
     line-height: 1.25;
 }
 
-.listfeaturedtag h4.card-text, .listrecent h4.card-text {
+.listfeaturedtag h4.card-text,
+.listrecent h4.card-text {
     color: rgba(0, 0, 0, .44);
     font-size: 0.95rem;
     line-height: 1.6;
@@ -92,5 +93,5 @@ div.prego-padding {
     font-size: 13px;
     color: var(--secondary);
     font-weight: 400;
-        margin: 6px 0 15px;
+    margin: 6px 0 15px;
 }
