@@ -1,6 +1,7 @@
 {
-    "name": "Bird’s Eye View",
-    "short_name": "blogbirdeyeview",
+    "name": "Bird’s Eye View: International Travel Blog",
+    "short_name": "Bird’s Eye View",
+    "description": "International Travel Blog: Tips and Recommendations for all your Journeys PWA",
     "icons": [
         {
             "src": "/assets/favicon-16x16.png",
@@ -32,6 +33,29 @@
             "src": "/assets/img-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshots/scr1.jpg",
+            "sizes": "1080x1920",
+            "type": "image/jpeg",
+            "platform": "narrow",
+            "label": "Take anywhere: Read wherever you are, even without internet."
+        },
+        {
+            "src": "/screenshots/scr2.jpg",
+            "sizes": "1080x1920",
+            "type": "image/jpeg",
+            "platform": "narrow",
+            "label": "Your design: Light and dark mode for your preferences."
+        },
+        {
+            "src": "/screenshots/scr3.jpg",
+            "sizes": "1080x1920",
+            "type": "image/jpeg",
+            "platform": "narrow",
+            "label": "Enjoy Bird's Eye View."
         }
     ],
     "theme_color": "#ffffff",
