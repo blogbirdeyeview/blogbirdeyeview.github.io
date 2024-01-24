@@ -56,6 +56,13 @@
             "type": "image/jpeg",
             "platform": "narrow",
             "label": "Enjoy Bird's Eye View."
+        },
+        {
+            "src": "/screenshots/form_factor.png",
+            "sizes": "1920x1080",
+            "type": "image/jpeg",
+            "form_factor": "wide",
+            "label": "Wide View: A captivating experience on desktop."
         }
     ],
     "theme_color": "#ffffff",
